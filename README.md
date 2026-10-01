@@ -144,7 +144,8 @@ Delay Rate = Delay Count / Orders Processed
 
 The project includes a Power BI-style dashboard preview:
 
-![Warehouse Dashboard](dashboard/warehouse_operations_dashboard.png)
+<img width="3579" height="1970" alt="warehouse_operations_deep_dive_dashboard" src="https://github.com/user-attachments/assets/205d14ea-69d1-4b49-b7e6-c12f9b3dc679" />
+
 
 ### Dashboard KPIs
 
